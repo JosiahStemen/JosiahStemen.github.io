@@ -1,9 +1,14 @@
 body {
     margin: 60px auto;
-    width: 70%;
-    background: linear-gradient(to bottom, #bfbfbf, #4d004d);
+    width:1024px;
+    height:auto;
     color: black;
-
+    background-color:white;
+}
+.innerwrapper {
+    width:800px;
+    height:auto;
+    background: linear-gradient(to bottom, #bfbfbf, #4d004d); 
 }
 #home   {
     font-size: 40px;
