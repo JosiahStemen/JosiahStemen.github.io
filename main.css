@@ -1,0 +1,55 @@
+body {
+    margin: 60px auto;
+    width: 70%;
+    background: linear-gradient(to bottom, #bfbfbf, #4d004d);
+    color: black;
+
+}
+#home   {
+    font-size: 40px;
+}
+#about  {
+    font-size:1.5em;
+}
+#randomfacts {
+    font-size: 1.5em;
+}
+#socialmedia {
+    
+}
+li a:link {
+    color: black;
+}
+li a:visited {
+    color: black;
+}
+li a:hover {
+    color: #b3b3ff;
+}
+li a:active {
+    color: orange;
+}
+ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-weight: bold;
+}
+ul li{
+    font-size: 1em;
+    list-style: none;
+    text-decoration: underline;
+    display: inline;
+    margin-right: 20px;
+}
+h1 {
+    font-size: 3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+p {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #000000;
+}
+footer {
+    border-top: 1px solid #000000;
+    font-size: .8em;
+}
