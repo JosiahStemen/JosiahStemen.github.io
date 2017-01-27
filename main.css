@@ -12,7 +12,7 @@ body {
     background: linear-gradient(to bottom, #bfbfbf, #4c0968); 
 }
 .maininfo {
-    padding: 70px;
+    padding: 25px 25px 25px 25px;
 }
     
 #home   {
