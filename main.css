@@ -3,14 +3,18 @@ body {
     width:100%;
     height:auto;
     color: black;
-    background-color:#096821;
+    background-color:white;
 }
 .innerwrapper {
     margin: 0 auto;
     width:80%;
-    height:auto;
+    height:100%;
     background: linear-gradient(to bottom, #bfbfbf, #4c0968); 
 }
+.maininfo {
+    padding: 70px;
+}
+    
 #home   {
     font-size: 40px;
 }
